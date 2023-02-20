@@ -1,5 +1,5 @@
 <img src="https://github.com/hassan-ahmed90/hassan-ahmed90/blob/main/programming-banner-coding-best-languages-260nw-1078387013.webp" width="1000" height="400">
-<h1 align="center">Hi I'm hassan Ahmed</h1>
+<h1 align="center">Hi I'm Hassan Ahmed</h1>
 🔭 I’m currently working on Java / Data Structure<br><br>🌱 I’m currently learning FLutter<br><br>💬 Ask me about Programming<br><br>⚡ Fun fact Judge me on my GPA 2.5
 
 
