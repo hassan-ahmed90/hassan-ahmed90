@@ -1,7 +1,7 @@
 <<h1 align="center">Hi 👋, I'm Hassan Ahmed</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Example image">
+<img src="../C:\Users\Shani\Desktop" alt="Example image">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan-ahmed90&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-ahmed90" /> </p>
