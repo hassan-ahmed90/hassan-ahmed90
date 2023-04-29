@@ -1,7 +1,7 @@
 <<h1 align="center">Hi 👋, I'm Hassan Ahmed</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img src="../README\hassan.png" alt="hassan">
+<img src="hassan.png" alt="hassan">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan-ahmed90&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-ahmed90" /> </p>
