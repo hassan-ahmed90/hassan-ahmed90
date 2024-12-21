@@ -1,3 +1,7 @@
+
+<img src="hassan.png" alt="hassan">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan-ahmed90&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-ahmed90" /> </p
 # 💫 About Me:
 I'm Hassan Ahmed currently doing a challenge #100 days of Code and willing to learn AI, Data Science.<br>I'm a Undergraduate Software engineer working of Mobile Application Development
 
